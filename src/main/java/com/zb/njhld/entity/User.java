@@ -1,4 +1,4 @@
-package com.zb.njhdl.entity;
+package com.zb.njhld.entity;
 
 import lombok.Data;
 

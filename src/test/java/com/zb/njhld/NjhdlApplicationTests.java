@@ -1,4 +1,4 @@
-package com.zb.njhdl;
+package com.zb.njhld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

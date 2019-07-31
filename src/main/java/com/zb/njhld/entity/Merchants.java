@@ -1,6 +1,7 @@
-package com.zb.njhdl.entity;
+package com.zb.njhld.entity;
 
 import lombok.Data;
+
 
 @Data
 public class Merchants {
@@ -16,6 +17,8 @@ public class Merchants {
     /**
      * 商家登录密码
      */
-    private String mergechantsPassword;
+    private String merchantsPassword;
+
+
 
 }

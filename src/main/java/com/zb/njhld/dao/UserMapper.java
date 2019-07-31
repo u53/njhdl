@@ -1,4 +1,4 @@
-package com.zb.njhdl.dao;
+package com.zb.njhld.dao;
 
 public interface UserMapper {
 }
