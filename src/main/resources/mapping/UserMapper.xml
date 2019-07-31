@@ -5,5 +5,5 @@
 
 <mapper namespace="com.zb.njhld.dao.UserMapper">
 
-
+   <select id=""></select>
 </mapper>
